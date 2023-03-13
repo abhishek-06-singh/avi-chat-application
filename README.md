@@ -38,9 +38,7 @@ HTML & CSS,
 ![Screenshot Capture - 2023-03-14 - 01-14-14](https://user-images.githubusercontent.com/115978151/224815574-54823d54-0fd8-40d6-ba45-64996e1fe18f.png)
 
 ## for Smartphone Users
-![WhatsApp Image 2023-03-14 at 00 58 07 (1)](https://user-images.githubusercontent.com/115978151/224815894-0b1831c0-dc5f-43b1-850d-89da253f7d4b.jpeg)
-![WhatsApp Image 2023-03-14 at 00 58 06](https://user-images.githubusercontent.com/115978151/224815947-c3bb2297-5de7-480d-800c-2c9a4e88ca0b.jpeg)
-![WhatsApp Image 2023-03-14 at 00 58 07](https://user-images.githubusercontent.com/115978151/224815841-cccaaf58-a207-4d66-a553-38f728e14b1d.jpeg)
+![Untitled design (2)](https://user-images.githubusercontent.com/115978151/224817338-d897602a-4c79-4d14-b1ab-8fdd5209b1e3.jpg)
 
 ## Hosted link
 
