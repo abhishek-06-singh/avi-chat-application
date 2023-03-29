@@ -42,4 +42,4 @@ HTML & CSS,
 
 ## Hosted link
 
-https://avichatop.netlify.app/
+https://earnest-souffle-d81ac7.netlify.app/
