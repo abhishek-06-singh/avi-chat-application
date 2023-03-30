@@ -17,7 +17,7 @@ Chatengine,
 
 contextApi,
 
-HTML & CSS,
+HTML & CSS.
 
 ## Features
 
