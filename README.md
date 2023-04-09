@@ -1,5 +1,8 @@
 # Chat Application
-<img src="https://user-images.githubusercontent.com/115978151/230763000-c79535b0-6edf-43e1-ad90-09d07ae9372d.png" width="200">
+<div style="text-align:center;">
+  <img src="https://user-images.githubusercontent.com/115978151/230763000-c79535b0-6edf-43e1-ad90-09d07ae9372d.png" width="400">
+</div>
+
 
 
 
