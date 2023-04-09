@@ -34,12 +34,12 @@ HTML & CSS.
 . Automatically scrolls to the bottom of the chat when a new message is received
 
 ## Look and Feel
-![Screenshot Capture - 2023-03-14 - 01-13-42](https://user-images.githubusercontent.com/115978151/224815545-2f0350a7-1ef2-4b9e-acc2-b1bd23e84020.png)
-![Screenshot Capture - 2023-03-14 - 01-14-14](https://user-images.githubusercontent.com/115978151/224815574-54823d54-0fd8-40d6-ba45-64996e1fe18f.png)
+![screenshot (4)](https://user-images.githubusercontent.com/115978151/230762487-b5a4f835-59b4-4d66-b2a2-cba5014eaa05.png)
+![screenshot (3)](https://user-images.githubusercontent.com/115978151/230762495-3acfd090-ef64-4834-8fa6-5b8502580d04.png)
 
 ## for Smartphone Users
 ![Untitled design (2)](https://user-images.githubusercontent.com/115978151/224817338-d897602a-4c79-4d14-b1ab-8fdd5209b1e3.jpg)
 
 ## Hosted link
 
-https://earnest-souffle-d81ac7.netlify.app/
+https://sweet-fudge-7c67ee.netlify.app/
