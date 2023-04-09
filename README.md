@@ -1,5 +1,6 @@
 # Chat Application
-![logo-color](https://user-images.githubusercontent.com/115978151/230763000-c79535b0-6edf-43e1-ad90-09d07ae9372d.png)
+<img src="https://user-images.githubusercontent.com/115978151/230763000-c79535b0-6edf-43e1-ad90-09d07ae9372d.png" width="200">
+
 
 
 A real-time chat application built with React that allows users to login with Google and Facebook, create and join chat rooms, and chat with other members in the room.a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
