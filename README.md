@@ -46,4 +46,4 @@ HTML & CSS.
 
 ## Hosted link
 
-https://sweet-fudge-7c67ee.netlify.app/
+https://magnificent-llama-ce0926.netlify.app/
