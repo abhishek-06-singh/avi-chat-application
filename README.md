@@ -41,7 +41,7 @@ HTML & CSS.
 ![screenshot (3)](https://user-images.githubusercontent.com/115978151/230762495-3acfd090-ef64-4834-8fa6-5b8502580d04.png)
 
 ## for Smartphone Users
-![Untitled design](https://user-images.githubusercontent.com/115978151/230762953-d91dc820-739a-4e31-9dfb-e2bd89bcacdc.png)
+![Untitled design](https://user-images.githubusercontent.com/115978151/230762953-d91dc820-739a-4e31-9dfb-e2bd89bcacdc.png) .
 
 
 ## Hosted link
